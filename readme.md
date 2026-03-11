@@ -32,3 +32,8 @@ Anyone can fork the repository and create a pull request with improvements.
 
 ## License
 This project is open source.
+## Cloud Storage Resources
+
+- AWS S3
+- Azure Blob Storage
+- Google Cloud Storage
