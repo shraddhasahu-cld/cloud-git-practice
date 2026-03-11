@@ -27,10 +27,9 @@ jobs:
 
       - name: Validate README exists
         run: |
-          if [ -f README.md ]; then
-            echo "README.md found - validation passed!"
+          if [ -f readme.md ]; then
+            echo "readme.md found - validation passed!"
           else
-            echo "README.md missing - FAILED"
+            echo "readme.md missing - FAILED"
             exit 1
           fi
-          
