@@ -1,1 +1,5 @@
 hii
+1. working directory:where you create or edit files
+2.staging:changes to be made in next commit
+3.commit:changes are permanently saved
+
