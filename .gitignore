@@ -1,0 +1,17 @@
+# Environment variables
+.env
+.env.local
+# AWS credentials
+.aws/
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+.terraform/
+# OS files
+.DS_Store
+Thumbs.db
+# Node.js
+node_modules/
+# Python
+__pycache__/
+*.pyc
